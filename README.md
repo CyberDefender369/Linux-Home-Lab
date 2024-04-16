@@ -81,4 +81,5 @@ Key tasks include:
   - Delete nonempty directory
   ![delete_dir](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/65f12b67-068d-4ac8-b2d3-cd92b6689862)
 
-  
+- Viewing and editing files
+  - View entire file, 
