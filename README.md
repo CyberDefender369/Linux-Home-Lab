@@ -3,7 +3,7 @@
 
 ## Description
 
-This project leverages the Linux distribution Ubuntu and focuses on comprehensive exploration of operating system functionalities. 
+This project utilizes the Linux distribution Ubuntu and centers around a thorough exploration of operating system functionalities. To achieve this, the command line interface is exclusively employed. It is common for beginners to shy away from becoming proficient with the terminal, but this project aims to demonstrate that mastering it is not a daunting task.
 
 Key tasks include:
 * Navigating the file system
@@ -55,6 +55,7 @@ Key tasks include:
   - Moving through system directory
   ![system_dir](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/0a9364c2-12de-4cc6-852f-ecc88573c8af)
 
+
 - Performing file operations
   - Listing all files
   ![ls_hidden](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/3aa5ea2b-258d-4cab-8659-56c888ff4a8a)
@@ -71,15 +72,24 @@ Key tasks include:
   - Deleting file
   ![delete](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/785a77f7-91ba-4be1-9139-0e8c1dd0a6a5)
 
+
 - Performing directory operations
   - Making directory
   ![create_dir](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/d55c05ed-f843-402c-8a79-ffdbff571764)
 
-  - Delete empty directory
+  - Deleting empty directory
   ![delete_empty_dir](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/3299a77d-3539-464d-830a-a48d6f29c43d)
 
-  - Delete nonempty directory
+  - Deleting nonempty directory
   ![delete_dir](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/65f12b67-068d-4ac8-b2d3-cd92b6689862)
 
+
 - Viewing and editing files
-  - View entire file, 
+  - Viewing entire file, with lines numbered, first 10 lines, and last 10 lines
+  ![viewing](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/475563c4-727b-4b79-bea7-0611b3e62198)
+
+  - Creating file and writing data
+  ![file_creation_edit](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/207ee066-2818-45b0-a667-77e95a44e2af)
+
+  - Editing a file with Nano
+  ![nano](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/a5e94527-3321-4ccd-a79b-a7f7cc03faa9)
