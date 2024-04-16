@@ -10,6 +10,7 @@ Key tasks include:
 * Performing file operations
 * Performing directory operations
 * Viewing and editing files
+* File properties
 * Locating files
 * Manipulating text within files
 * Compressing files
@@ -88,8 +89,27 @@ Key tasks include:
   - Viewing entire file, with lines numbered, first 10 lines, and last 10 lines
   ![viewing](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/475563c4-727b-4b79-bea7-0611b3e62198)
 
-  - Creating file and writing data
+  - Creating and writing data to file
   ![file_creation_edit](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/207ee066-2818-45b0-a667-77e95a44e2af)
 
   - Editing a file with Nano
   ![nano](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/a5e94527-3321-4ccd-a79b-a7f7cc03faa9)
+
+
+- File properties
+  - Displaying attributes of file
+  ![stat](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/54ebade2-c267-4f79-88d6-86b6815f6fda)
+
+  - Counting lines, words, and bytes
+  ![wc](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/3b36f4df-647a-4640-a92e-c5c5a28618b7)
+
+  - Guessing the type of file
+  ![file](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/b7cc12ae-696f-4d42-906b-4d97b93b87c1)
+
+
+- Locating files
+  - ![find](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/b95e4b5e-90cf-491a-804d-0ccbd05d2f4d)
+
+
+- Manipulating text within files
+  - 
