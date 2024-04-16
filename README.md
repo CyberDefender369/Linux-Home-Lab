@@ -8,9 +8,9 @@ This project leverages the Linux distribution Ubuntu and focuses on comprehensiv
 Key tasks include:
 * Navigating the file system
 * Performing file operations
-* Managing directories
+* Performing directory operations
 * Viewing and editing files
-* locating files
+* Locating files
 * Manipulating text within files
 * Compressing files
 * Printing
@@ -56,17 +56,29 @@ Key tasks include:
   ![system_dir](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/0a9364c2-12de-4cc6-852f-ecc88573c8af)
 
 - Performing file operations
-  - listing all files
+  - Listing all files
   ![ls_hidden](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/3aa5ea2b-258d-4cab-8659-56c888ff4a8a)
 
-  - long listing
+  - Long listing
   ![long_listing](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/61b43414-97f1-431f-999c-52b02c242922)
 
-  - copying file
+  - Copying file
   ![copy](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/fa07c970-cc66-4303-b69d-3b4637ba6a35)
 
-  - renaming and moving file
+  - Renaming and moving file
   ![move](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/1047c7b7-19ce-4c95-bc90-2ee5a541a31d)
 
-  - deleting file
+  - Deleting file
   ![delete](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/785a77f7-91ba-4be1-9139-0e8c1dd0a6a5)
+
+- Performing directory operations
+  - Making directory
+  ![create_dir](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/d55c05ed-f843-402c-8a79-ffdbff571764)
+
+  - Delete empty directory
+  ![delete_empty_dir](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/3299a77d-3539-464d-830a-a48d6f29c43d)
+
+  - Delete nonempty directory
+  ![delete_dir](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/65f12b67-068d-4ac8-b2d3-cd92b6689862)
+
+  
