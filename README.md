@@ -3,7 +3,7 @@
 
 ## Description
 
-This project utilizes the Linux distribution Ubuntu and centers around a thorough exploration of operating system functionalities. To achieve this, the command line interface is exclusively employed. It is common for beginners to shy away from becoming proficient with the terminal, but this project aims to demonstrate that mastering it is not a daunting task.
+This project utilizes the Linux distribution Ubuntu and centers around a thorough exploration of operating system functionalities. To achieve this, the terminal is exclusively employed. It is common for beginners to shy away from becoming proficient with the terminal, but this project aims to demonstrate that mastering it is not a daunting task.
 
 Key tasks include:
 * Navigating the file system
