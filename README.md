@@ -47,6 +47,10 @@ Key tasks include:
 - Ubuntu 23.10
 
 
+## Notes
+
+Currently at manipulating text within files. Will update daily. 
+
 ## Project Walk-Through:
 
 - Navigating the file system
