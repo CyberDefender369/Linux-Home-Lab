@@ -108,8 +108,18 @@ Key tasks include:
 
 
 - Locating files
-  - ![find](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/b95e4b5e-90cf-491a-804d-0ccbd05d2f4d)
+  - Finding location of file
+  ![find](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/b95e4b5e-90cf-491a-804d-0ccbd05d2f4d)
 
 
 - Manipulating text within files
+  - Finding all lines that contain the word "Linux"
+  ![grep](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/dbb58461-5de5-4357-8cb3-bce9d5e935c0)
+
+  - Combining text to standard output
+  ![paste](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/78618dc5-ff11-4e10-a090-2175aeaeb417)
+
+  - Capitalizing all text in a file
+  ![tr](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/7f496360-0c0f-44d0-9803-d42cc020d17b)
+
   - 
