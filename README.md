@@ -14,7 +14,7 @@ Key tasks include:
 * Locating files
 * Manipulating text within files
 * Compressing files
-* Printing
+* File comparison
 * Spellchecking
 * Handling disks and file systems
 * Implementing backups and remote storage
@@ -49,7 +49,7 @@ Key tasks include:
 
 ## Notes
 
-Currently at manipulating text within files. Will update daily. 
+Currently at spellchecking. Will update daily. 
 
 ## Project Walk-Through:
 
@@ -126,4 +126,24 @@ Currently at manipulating text within files. Will update daily.
   - Capitalizing all text in a file
   ![tr](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/7f496360-0c0f-44d0-9803-d42cc020d17b)
 
-  - 
+  - Sorting text in aplabetical order
+  ![sort](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/798a40d9-0004-44ae-901c-97cd177a0cca)
+
+  - Removing dulpicate lines of text
+  ![uniq](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/d953afb3-7df2-466e-b72d-259eee71ebde)
+
+  - Printing first, third, and fifth word of each line
+  ![awk](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/1729972a-4874-41cc-b313-75b5dc177fb8)
+
+- Compressing files
+  - Creating, compressing, and naming archiving file
+  ![tar](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/c5806e4d-2ce8-4496-a262-20f5954d6ee8)
+
+- File comparison
+  - Verifying MD5 checksums
+  ![md5](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/49a64784-144c-4112-99bf-9a5cf53d94c3)
+
+  - Verifying SHA-256 checksums
+  ![sha256](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/115378b0-c5b1-4831-997d-a828604ced76)
+
+
