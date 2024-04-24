@@ -49,7 +49,7 @@ Key tasks include:
 
 ## Notes
 
-Currently at spellchecking. Will update daily. 
+Currently at handling disks and file systems. Will update daily. 
 
 ## Project Walk-Through:
 
@@ -146,4 +146,15 @@ Currently at spellchecking. Will update daily.
   - Verifying SHA-256 checksums
   ![sha256](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/115378b0-c5b1-4831-997d-a828604ced76)
 
+- Spellchecking
+  - Looking up how to spell a word
+  ![look](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/898f679e-022b-499e-a8b5-291b5aea1228)
+
+  - Checking for misspelled words
+  ![spell](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/7bc7e141-6b78-4fc7-b108-91a3fe3dd7a9)
+
+ 
+- Software installation
+  - Installing spell program
+  ![install_software](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/670362f0-0268-46fa-b426-b01482b7475e)
 
