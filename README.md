@@ -135,9 +135,11 @@ Currently at handling disks and file systems. Will update daily.
   - Printing first, third, and fifth word of each line
   ![awk](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/1729972a-4874-41cc-b313-75b5dc177fb8)
 
+
 - Compressing files
   - Creating, compressing, and naming archiving file
   ![tar](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/c5806e4d-2ce8-4496-a262-20f5954d6ee8)
+
 
 - File comparison
   - Verifying MD5 checksums
@@ -145,6 +147,7 @@ Currently at handling disks and file systems. Will update daily.
 
   - Verifying SHA-256 checksums
   ![sha256](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/115378b0-c5b1-4831-997d-a828604ced76)
+
 
 - Spellchecking
   - Looking up how to spell a word
@@ -157,4 +160,3 @@ Currently at handling disks and file systems. Will update daily.
 - Software installation
   - Installing spell program
   ![install_software](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/670362f0-0268-46fa-b426-b01482b7475e)
-
