@@ -17,7 +17,7 @@ Key tasks include:
 * File comparison
 * Spellchecking
 * Handling disks and file systems
-* Implementing backups and remote storage
+* Implementing backups
 * Monitoring processes
 * Controlling process execution
 * System shutdown
@@ -156,7 +156,35 @@ Currently at handling disks and file systems. Will update daily.
   - Checking for misspelled words
   ![spell](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/7bc7e141-6b78-4fc7-b108-91a3fe3dd7a9)
 
- 
+
+- Handling disks and file systems
+  - Displaying all mounted filesytems
+  ![df](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/313af8cf-729a-469d-b685-57de9b94f8c8)
+
+  - Mounting an empty directory
+  ![mount](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/2d5cbc24-bae9-46f6-8ab9-ba8af2ee6935)
+
+
+- Implementing backups
+  - Copying a set of files locally
+  ![rsync](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/f050b1c8-2cde-4847-98e6-23f1618f7278)
+
+
+- Monitoring processes
+  - Displaying all running processes
+  ![ps](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/0e04ef6b-dd78-43b0-843b-7012e6211808)
+
+  - Displaying system running time since last boot
+  ![uptime](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/11d5d58f-0b1e-49a9-a0a6-3cc5d45fc59e)
+
+  - Tracking running processes
+  ![top](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/da6a4c33-f7b9-473e-8967-dcdcb83289fb)
+
+
+- Controlling process execution
+  - 
+
 - Software installation
   - Installing spell program
   ![install_software](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/670362f0-0268-46fa-b426-b01482b7475e)
+
