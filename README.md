@@ -49,7 +49,7 @@ Key tasks include:
 
 ## Notes
 
-Currently at handling disks and file systems. Will update daily. 
+Currently at controlling process execution. Will update daily. 
 
 ## Project Walk-Through:
 
