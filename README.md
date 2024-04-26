@@ -20,9 +20,8 @@ Key tasks include:
 * Implementing backups
 * Monitoring processes
 * Controlling process execution
-* System shutdown
+* System reboot/shutdown
 * User account administration
-* Superuser privileges
 * Group management
 * Host information retrieval
 * Network connections analysis
@@ -182,7 +181,32 @@ Currently at controlling process execution. Will update daily.
 
 
 - Controlling process execution
-  - 
+  - Terminating process
+  ![kill](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/c4842722-de85-4bea-bc36-215b26685bb2)
+
+
+- System shutdown
+  - Rebooting system
+  ![reboot](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/f261b22b-f434-4332-ba05-b4b162cf6e24)
+
+  - Shutting down system
+  ![shutdown](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/bf90242c-e380-4a23-83ce-b9ee536d9f9a)
+
+
+- User account administration
+  - Creating an account, then giving account a password
+  ![useradd-passwd](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/37e8524e-7d45-4899-a792-eac3e001bc56)
+
+  - Deleting account (consider deactivating before deletion)
+  ![userdel](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/551704e6-e3b3-45c3-8f79-5a3e26673e79)
+
+  - Changing user shell
+  ![usermod](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/91088756-34b7-4b75-9b3b-c48fa215456f)
+
+- Group management
+  - Creating group, then adding user to group
+  
+
 
 - Software installation
   - Installing spell program
