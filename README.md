@@ -194,7 +194,7 @@ Currently at controlling process execution.
 
 
 - User account administration
-  - Creating an account, then giving account a password
+  - Creating an account, then setting a password
   ![useradd-passwd](https://github.com/CyberDefender369/Linux-Home-Lab/assets/96165986/37e8524e-7d45-4899-a792-eac3e001bc56)
 
   - Deleting account (consider deactivating before deletion)
