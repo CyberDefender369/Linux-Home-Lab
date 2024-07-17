@@ -48,7 +48,7 @@ Key tasks include:
 
 ## Notes
 
-Currently at controlling process execution. Will update daily. 
+Currently at controlling process execution.  
 
 ## Project Walk-Through:
 
